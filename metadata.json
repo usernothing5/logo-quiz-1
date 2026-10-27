@@ -1,0 +1,6 @@
+{
+  "name": "Logo Guessing Game",
+  "description": "A fun logo guessing game to test your company knowledge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
